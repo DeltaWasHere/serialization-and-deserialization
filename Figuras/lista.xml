@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<ArrayOfObjectFiguras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ObjectFiguras>
+    <Clasificacion>Circulo</Clasificacion>
+    <subclasificacion />
+    <id>1</id>
+    <L1>10</L1>
+    <L2>0</L2>
+    <L3>0</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Rectangulo</Clasificacion>
+    <subclasificacion />
+    <id>2</id>
+    <L1>10</L1>
+    <L2>20</L2>
+    <L3>0</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Triangulo</Clasificacion>
+    <subclasificacion>escaleno</subclasificacion>
+    <id>3</id>
+    <L1>1</L1>
+    <L2>2</L2>
+    <L3>3</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Triangulo</Clasificacion>
+    <subclasificacion>isoceles</subclasificacion>
+    <id>4</id>
+    <L1>1</L1>
+    <L2>1</L2>
+    <L3>2</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Triangulo</Clasificacion>
+    <subclasificacion>escaleno</subclasificacion>
+    <id>5</id>
+    <L1>1</L1>
+    <L2>2</L2>
+    <L3>3</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Triangulo</Clasificacion>
+    <subclasificacion>isoceles</subclasificacion>
+    <id>6</id>
+    <L1>1</L1>
+    <L2>1</L2>
+    <L3>1</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Circulo</Clasificacion>
+    <subclasificacion />
+    <id>7</id>
+    <L1>10</L1>
+    <L2>0</L2>
+    <L3>0</L3>
+  </ObjectFiguras>
+  <ObjectFiguras>
+    <Clasificacion>Rectangulo</Clasificacion>
+    <subclasificacion />
+    <id>8</id>
+    <L1>1</L1>
+    <L2>3</L2>
+    <L3>0</L3>
+  </ObjectFiguras>
+</ArrayOfObjectFiguras>

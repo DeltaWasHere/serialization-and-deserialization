@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ObjectFiguras/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ObjectFiguras.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjectFiguras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectFiguras/1.0.0": {
+      "type": "project",
+      "path": "../ObjectFiguras/ObjectFiguras.csproj",
+      "msbuildProject": "../ObjectFiguras/ObjectFiguras.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ObjectFiguras >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jegmo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jegmo\\PA\\2P\\Figuras\\Figuras.csproj",
+      "projectName": "Figuras",
+      "projectPath": "C:\\Users\\jegmo\\PA\\2P\\Figuras\\Figuras.csproj",
+      "packagesPath": "C:\\Users\\jegmo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jegmo\\PA\\2P\\Figuras\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jegmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\jegmo\\PA\\2P\\ObjectFiguras\\ObjectFiguras.csproj": {
+              "projectPath": "C:\\Users\\jegmo\\PA\\2P\\ObjectFiguras\\ObjectFiguras.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

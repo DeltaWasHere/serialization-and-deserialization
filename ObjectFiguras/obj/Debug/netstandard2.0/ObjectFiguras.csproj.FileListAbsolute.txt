@@ -1,0 +1,10 @@
+C:\Users\jegmo\PA\2P\ObjectFiguras\bin\Debug\netstandard2.0\ObjectFiguras.deps.json
+C:\Users\jegmo\PA\2P\ObjectFiguras\bin\Debug\netstandard2.0\ObjectFiguras.dll
+C:\Users\jegmo\PA\2P\ObjectFiguras\bin\Debug\netstandard2.0\ObjectFiguras.pdb
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.csproj.AssemblyReference.cache
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.AssemblyInfoInputs.cache
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.AssemblyInfo.cs
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.csproj.CoreCompileInputs.cache
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.dll
+C:\Users\jegmo\PA\2P\ObjectFiguras\obj\Debug\netstandard2.0\ObjectFiguras.pdb
